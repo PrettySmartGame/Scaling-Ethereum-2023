@@ -1,15 +1,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/JulioMCruz/Scaling-Ethereum-2023-FrontEnd.git
-[submodule "Backend"]
-	path = Backend
-	url = https://github.com/JulioMCruz/Scaling-Ethereum-2023-BackEnd.git
 [submodule "SmartContracts"]
 	path = SmartContracts
 	url = https://github.com/JulioMCruz/Scaling-Ethereum-2023-SmartContracts.git
-[submodule "Database"]
-	path = Database
-	url = https://github.com/JulioMCruz/Scaling-Ethereum-2023-Database.git
-[submodule "MobileApp"]
-	path = MobileApp
-	url = https://github.com/JulioMCruz/Scaling-Ethereum-2023-MobileApp.git
